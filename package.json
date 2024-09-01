@@ -1,0 +1,40 @@
+{
+    "name": "@softvisio/babel",
+    "version": "0.0.0",
+    "description": "Babel bundle",
+    "keywords": [
+        "softvisio",
+        "babel"
+    ],
+    "homepage": "https://softvisio-node.github.io/app-component-text-search/",
+    "bugs": {
+        "url": "https://github.com/softvisio-node/app-component-text-search/issues",
+        "email": "root <root@softvisio.net>"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/softvisio-node/app-component-text-search.git"
+    },
+    "license": "ISC",
+    "author": "root <root@softvisio.net>",
+    "type": "module",
+    "imports": {
+        "#lib/*": "./lib/*.js",
+        "#resources/*": "./resources/*"
+    },
+    "exports": {
+        "./*": "./lib/*.js",
+        "./resources/*": "./resources/*"
+    },
+    "files": [
+        "/bin",
+        "/lib",
+        "/resources",
+        "/src"
+    ],
+    "peerDependencies": {
+        "@babel/eslint-parser": "^7.25.1",
+        "@babel/plugin-syntax-import-assertions": "^7.25.6",
+        "@babel/preset-env": "^7.25.4"
+    }
+}
