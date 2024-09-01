@@ -19,10 +19,12 @@
     "author": "root <root@softvisio.net>",
     "type": "module",
     "imports": {
-        "#lib/*": "./lib/*.js"
+        "#lib/*": "./lib/*.js",
+        "#lib/config": "./lib/config.cjs"
     },
     "exports": {
         "./*": "./lib/*.js",
+        "./config": "./lib/config.cjs",
         "./babel.config": "./lib/babel.config.cjs"
     },
     "files": [
