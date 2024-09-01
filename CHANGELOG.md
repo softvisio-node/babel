@@ -1,5 +1,16 @@
 # Changelog
 
+### 1.3.0 (2024-09-01)
+
+Features:
+
+-   feat: babel config
+
+Fixes:
+
+-   fix: @babel/plugin-syntax-import-assertions removed
+-   fix: deps
+
 ### 1.2.0 (2024-09-01)
 
 Features:
