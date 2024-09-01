@@ -6,25 +6,23 @@
         "softvisio",
         "babel"
     ],
-    "homepage": "https://softvisio-node.github.io/app-component-text-search/",
+    "homepage": "https://github.com/softvisio-node/babel",
     "bugs": {
-        "url": "https://github.com/softvisio-node/app-component-text-search/issues",
+        "url": "https://github.com/softvisio-node/babel/issues",
         "email": "root <root@softvisio.net>"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/softvisio-node/app-component-text-search.git"
+        "url": "git+https://github.com/softvisio-node/babel.git"
     },
     "license": "ISC",
     "author": "root <root@softvisio.net>",
     "type": "module",
     "imports": {
-        "#lib/*": "./lib/*.js",
-        "#resources/*": "./resources/*"
+        "#lib/*": "./lib/*.js"
     },
     "exports": {
-        "./*": "./lib/*.js",
-        "./resources/*": "./resources/*"
+        "./*": "./lib/*.js"
     },
     "files": [
         "/bin",
