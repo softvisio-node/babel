@@ -1,5 +1,2 @@
 docs:
   location: docs
-
-  externalTypes:
-    - softvisio-node/result
