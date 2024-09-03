@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.3.4 (2024-09-03)
+
+Fixes:
+
+-   fix: config
+
 ### 1.3.3 (2024-09-03)
 
 Fixes:
