@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.3.6 (2024-09-03)
+
+Fixes:
+
+-   fix: exclude pattern
+
 ### 1.3.5 (2024-09-03)
 
 Fixes:
