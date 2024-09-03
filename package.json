@@ -31,7 +31,6 @@
         "/src"
     ],
     "peerDependencies": {
-        "@babel/eslint-parser": "^7.25.1",
         "@babel/plugin-transform-runtime": "^7.25.4",
         "@babel/preset-env": "^7.25.4",
         "core-js": "^3.38.1"
