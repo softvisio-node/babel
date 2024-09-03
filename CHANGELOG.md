@@ -1,5 +1,12 @@
 # Changelog
 
+### 1.3.3 (2024-09-03)
+
+Fixes:
+
+-   fix: config
+-   fix: eslint parser removed
+
 ### 1.3.2 (2024-09-02)
 
 No notable changes since the previous release.
