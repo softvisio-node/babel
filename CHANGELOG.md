@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.3.9 (2024-09-19)
+
+Fixes:
+
+-   fix: babel config
+
 ### 1.3.8 (2024-09-17)
 
 No notable changes since the previous release.
