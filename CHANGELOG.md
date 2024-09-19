@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.4.0 (2024-09-19)
+
+Features:
+
+-   feat: create config
+
 ### 1.3.9 (2024-09-19)
 
 Fixes:
