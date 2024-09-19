@@ -22,7 +22,7 @@
         "#lib/*": "./lib/*.js"
     },
     "exports": {
-        ".": "./lib/core.js",
+        ".": "./lib/index.js",
         "./*": "./lib/*.js"
     },
     "files": [

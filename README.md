@@ -15,12 +15,11 @@ npm i @softvisio/babel
 ## Usage
 
 ```javascript
-import babel from "@softvisio/babel";
-import babelConfig from "@softvisio/babel/config";
+import { createConfig, parseAsync, transformAsync } from "@softvisio/babel";
 
 // parse
-const ast = await babel.parseAsync(code, babelConfig);
+const ast = await parseAsync(code, createConfig());
 
 // transform
-const { code, map } = await babel.transformAsync(code, babelConfig);
+const { code, map } = await transformAsync(code, createConfig());
 ```
