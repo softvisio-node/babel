@@ -4,7 +4,7 @@
 
 # Introduction
 
-Optiomal `babel` config for parsing and transformations.
+Optimal `babel` config for parsing and transformations.
 
 ## Install
 
