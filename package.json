@@ -6,7 +6,7 @@
         "softvisio",
         "babel"
     ],
-    "homepage": "https://github.com/softvisio-node/babel",
+    "homepage": "https://softvisio-node.github.io/babel/",
     "bugs": {
         "url": "https://github.com/softvisio-node/babel/issues",
         "email": "root <root@softvisio.net>"
