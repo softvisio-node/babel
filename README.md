@@ -1,7 +1,6 @@
 <!-- !!! DO NOT EDIT, THIS FILE IS GENERATED AUTOMATICALLY !!!  -->
 
-> :information_source: Please, see the full project documentation here:
-
+> :information_source: Please, see the full project documentation here:\n
 > [https://softvisio-node.github.io/babel/](https://softvisio-node.github.io/babel/)
 
 # Introduction
