@@ -5,7 +5,7 @@ Optimal `babel` config for parsing and transformations.
 ## Install
 
 ```shell
-npm i @softvisio/babel
+npm install @softvisio/babel
 ```
 
 ## Usage
