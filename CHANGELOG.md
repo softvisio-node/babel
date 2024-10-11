@@ -1,5 +1,11 @@
 # Changelog
 
+### 1.4.5 (2024-10-11)
+
+No notable changes since the previous release.
+
+[Full list of the changes](https://github.com/softvisio-node/babel/compare/v1.4.4...v1.4.5)
+
 ### 1.4.4 (2024-10-10)
 
 No notable changes since the previous release.
