@@ -14,8 +14,8 @@ npm install @softvisio/babel
 import { createConfig, parseAsync, transformAsync } from "@softvisio/babel";
 
 // parse
-const ast = await parseAsync(code, createConfig());
+const ast = await parseAsync( code, createConfig() );
 
 // transform
-const { code, map } = await transformAsync(code, createConfig());
+const { code, map } = await transformAsync( code, createConfig() );
 ```
