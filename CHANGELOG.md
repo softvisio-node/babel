@@ -1,5 +1,13 @@
 # Changelog
 
+### 1.4.9 (2024-11-07)
+
+Other changes:
+
+-   chore: update package metadata
+
+[Compare with the previous release: v1.4.8 ... v1.4.9](https://github.com/softvisio-node/babel/compare/v1.4.8...v1.4.9)
+
 ### 1.4.8 (2024-10-29)
 
 Other changes:
