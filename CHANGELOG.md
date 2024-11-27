@@ -1,10 +1,18 @@
 # Changelog
 
+### 1.4.10 (2024-11-27)
+
+Other changes:
+
+- chore: update package metadata
+
+[Compare with the previous release: v1.4.9 ... v1.4.10](https://github.com/softvisio-node/babel/compare/v1.4.9...v1.4.10)
+
 ### 1.4.9 (2024-11-07)
 
 Other changes:
 
--   chore: update package metadata
+- chore: update package metadata
 
 [Compare with the previous release: v1.4.8 ... v1.4.9](https://github.com/softvisio-node/babel/compare/v1.4.8...v1.4.9)
 
@@ -12,7 +20,7 @@ Other changes:
 
 Other changes:
 
--   chore: update docs
+- chore: update docs
 
 [Compare with the previous release: v1.4.7 ... v1.4.8](https://github.com/softvisio-node/babel/compare/v1.4.7...v1.4.8)
 
@@ -42,7 +50,7 @@ No notable changes since the previous release.
 
 Fixes:
 
--   fix: dependabot
+- fix: dependabot
 
 ### 1.4.2 (2024-10-06)
 
@@ -56,13 +64,13 @@ No notable changes since the previous release.
 
 Features:
 
--   feat: create config
+- feat: create config
 
 ### 1.3.9 (2024-09-19)
 
 Fixes:
 
--   fix: babel config
+- fix: babel config
 
 ### 1.3.8 (2024-09-17)
 
@@ -72,32 +80,32 @@ No notable changes since the previous release.
 
 Fixes:
 
--   fix: editor config
+- fix: editor config
 
 ### 1.3.6 (2024-09-03)
 
 Fixes:
 
--   fix: exclude pattern
+- fix: exclude pattern
 
 ### 1.3.5 (2024-09-03)
 
 Fixes:
 
--   fix: config
+- fix: config
 
 ### 1.3.4 (2024-09-03)
 
 Fixes:
 
--   fix: config
+- fix: config
 
 ### 1.3.3 (2024-09-03)
 
 Fixes:
 
--   fix: config
--   fix: eslint parser removed
+- fix: config
+- fix: eslint parser removed
 
 ### 1.3.2 (2024-09-02)
 
@@ -107,30 +115,30 @@ No notable changes since the previous release.
 
 Fixes:
 
--   fix: docs config
+- fix: docs config
 
 ### 1.3.0 (2024-09-01)
 
 Features:
 
--   feat: babel config
+- feat: babel config
 
 Fixes:
 
--   fix: @babel/plugin-syntax-import-assertions removed
--   fix: deps
+- fix: @babel/plugin-syntax-import-assertions removed
+- fix: deps
 
 ### 1.2.0 (2024-09-01)
 
 Features:
 
--   feat: babel parser
+- feat: babel parser
 
 ### 1.1.0 (2024-09-01)
 
 Features:
 
--   feat: babel parser
+- feat: babel parser
 
 ### 1.0.0 (2024-09-01)
 
