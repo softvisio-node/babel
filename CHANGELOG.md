@@ -1,5 +1,13 @@
 # Changelog
 
+### 1.4.12 (2024-12-07)
+
+Other changes:
+
+- chore: set yaml indent to 4 spaces
+
+[Compare with the previous release: v1.4.11 ... v1.4.12](https://github.com/softvisio-node/babel/compare/v1.4.11...v1.4.12)
+
 ### 1.4.11 (2024-11-27)
 
 Other changes:
