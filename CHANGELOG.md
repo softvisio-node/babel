@@ -1,5 +1,13 @@
 # Changelog
 
+### 1.4.14 (2025-02-19)
+
+Other changes:
+
+- chore: update cli config
+
+Compare with the previous release: [`v1.4.13...v1.4.14`](https://github.com/softvisio-node/babel/compare/v1.4.13...v1.4.14)
+
 ### 1.4.13 (2025-01-08)
 
 Other changes:
