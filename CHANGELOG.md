@@ -1,5 +1,13 @@
 # Changelog
 
+### 1.4.15 (2025-02-26)
+
+Other changes:
+
+- chore: update editorconfig
+
+Compare with the previous release: [`v1.4.14...v1.4.15`](https://github.com/softvisio-node/babel/compare/v1.4.14...v1.4.15)
+
 ### 1.4.14 (2025-02-19)
 
 Other changes:
