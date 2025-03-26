@@ -8,7 +8,7 @@ Optimal `babel` config for parsing and transformations.
 
 ## Install
 
-```shell
+```sh
 npm install @softvisio/babel
 ```
 
