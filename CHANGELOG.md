@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.4.20 (2025-06-01)
+
+**Other changes:**
+
+- \[PATCH] chore: update docs (👬 zdm)
+
+Compare with the previous release: [v1.4.19](https://github.com/softvisio-node/babel/compare/v1.4.19...v1.4.20)
+
 ### 1.4.19 (2025-03-26)
 
 Other changes:
