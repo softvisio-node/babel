@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.4.21 (2025-06-07)
+
+**Other changes:**
+
+- \[PATCH] chore: update cli config (👬 zdm)
+
+Compare with the previous release: [v1.4.20](https://github.com/softvisio-node/babel/compare/v1.4.20...v1.4.21)
+
 ### v1.4.20 (2025-06-01)
 
 **Other changes:**
