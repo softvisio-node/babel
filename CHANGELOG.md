@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.4.22 (2025-07-16)
+
+**Other changes:**
+
+- docs: update (● [765d65e](https://github.com/softvisio-node/babel/commit/765d65e); 👬 zdm)
+
+Compare with the previous release: [v1.4.21](https://github.com/softvisio-node/babel/compare/v1.4.21...v1.4.22)
+
 ### v1.4.21 (2025-06-07)
 
 **Other changes:**
