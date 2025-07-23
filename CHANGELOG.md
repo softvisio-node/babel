@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.4.25 (2025-07-23)
+
+**Other changes:**
+
+- style: update .npmrc (● [96e6254](https://github.com/softvisio-node/babel/commit/96e6254); 👬 zdm)
+
+Compare with the previous release: [v1.4.24](https://github.com/softvisio-node/babel/compare/v1.4.24...v1.4.25)
+
 ### v1.4.24 (2025-07-23)
 
 **Bug fixes:**
