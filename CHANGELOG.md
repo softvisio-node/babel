@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.4.24 (2025-07-23)
+
+**Bug fixes:**
+
+- \[PATCH] fix: update editorconfig (● [6894624](https://github.com/softvisio-node/babel/commit/6894624); 👬 zdm)
+
+Compare with the previous release: [v1.4.23](https://github.com/softvisio-node/babel/compare/v1.4.23...v1.4.24)
+
 ### v1.4.23 (2025-07-22)
 
 **Bug fixes:**
